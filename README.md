@@ -41,3 +41,6 @@ Este é um sistema de gerenciamento de gastos pessoais desenvolvido com uma apli
    Instale as dependências e inicie o servidor de desenvolvimento:
    npm install
    npm start
+## Deploy
+1. Frontend - vercel [Gerenciador de Gastos](https://gerenciador-de-gastos-frsk.vercel.app/)
+2. Backend - 
