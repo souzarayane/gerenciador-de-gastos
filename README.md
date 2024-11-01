@@ -7,7 +7,7 @@ Este é um sistema de gerenciamento de gastos pessoais desenvolvido com uma apli
 - **Back-end**: Java, Spring Boot, Spring Data JPA
 - **Front-end**: React, Material UI
 - **Banco de Dados**: H2 (para desenvolvimento), ou outro de produção
-- **Deploy**: Render (para o back-end), Vercel (para o front-end)
+- **Deploy**: Vercel (para o front-end)
 
 ## Funcionalidades
 
@@ -42,5 +42,5 @@ Este é um sistema de gerenciamento de gastos pessoais desenvolvido com uma apli
    npm install
    npm start
 ## Deploy
-1. Frontend - vercel [Gerenciador de Gastos](https://gerenciador-de-gastos-frsk.vercel.app/)
-2. Backend - 
+Frontend - vercel [Gerenciador de Gastos](https://gerenciador-de-gastos-frsk.vercel.app/)
+
